@@ -6,6 +6,13 @@ CivicGrid is a full-stack decentralized civic platform built on [Stellar](https:
 
 ---
 
+## Screenshot 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/853e01e3-0c92-49e2-b47a-7f5f80951cd5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd04786d-c299-4bdb-9d4e-0f74ea1b0d7d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf2be748-d669-4b09-829d-aea21320a8be" />
+
+live demo : https://claude.ai/public/artifacts/6234291c-a20e-45e7-baed-32cf0807e0c9
+
 ## The Three Pillars
 
 ### 🪪 CivicID — Identity & Credentials
